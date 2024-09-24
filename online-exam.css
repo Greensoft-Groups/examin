@@ -1,0 +1,189 @@
+/* This css is for index page*/
+
+.ibody{
+    background-image: radial-gradient(circle,  rgb(192, 215, 246), rgb(126, 173, 234), rgb(52, 127, 225));
+    
+}
+.ih1{
+    font-family:Georgia; 
+    text-align: center;
+
+}
+
+.ilable1{
+    color: rgb(4, 27, 40);
+    padding: 5px 3px 4px;
+}
+
+.idiv1{
+    position: absolute; 
+    z-index: 1; 
+    left: 41%;
+    top: 30%; 
+    padding: 5px 10px;
+    border-radius: 20px; 
+    box-shadow: 5px 5px 20px; 
+    font-size: x-large;
+}
+
+.itext{
+    padding: 10px 22px;
+    margin: 4px 2px;
+}
+
+.ibtn{
+    background-color: #042b9f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
+/* This css is for home page */
+
+.body-style{
+    background-image: linear-gradient(140deg, #a1c4fd 0%, #aebbcb 100%);
+
+}
+.header{
+    background-color: #2e86c1; 
+    color: azure;
+    height: fit-content;
+    width: 100%;
+    position: sticky;
+    padding: 5px 10px;  
+
+}
+
+.header_menu  {
+    align-items: right;
+    overflow: hidden;
+    background-color: #2e86c1; 
+    padding: 20px 10px;
+
+    float: right;
+    color: azure;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+.p1{
+    text-align: center; 
+    text-wrap: wrap;
+    font-size: x-large;
+    text-align: justify;
+    width: 45%;
+    z-index: 1;
+    position: relative;
+    top: 80px;
+    left: 43%;
+    padding: 5px 10px;
+    box-shadow: #84c3ed;
+}
+
+.style-table{
+    font-size: x-large;
+    border-collapse: collapse;
+    width: 25%;
+    height: 30%;
+    border-width: thin;
+    background-color:#84c3ed;
+    z-index: 1;
+    top: 190px; 
+    left: 70px;
+    position: absolute;  
+    padding: 5px 10px;  
+    box-shadow: 3px 2px 5px;
+}
+
+/* This css is for english exam page  */
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .content {
+    position: absolute;
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    color: black;
+  }
+
+.enextable-sttyle{
+    font-weight: bold;
+    text-decoration-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* This css is for Maths exam page  */
+
+#myVideo {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .content {
+    position: fixed;
+    top: 0;
+    color: #f1f1f1;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    color: black;
+  }
+
+.mtextable-sttyle{
+    font-weight: bold;
+    text-decoration-color: black;
+    margin-left: auto;
+    margin-bottom: auto;
+
+}
+
+/* This css is for Scocial exam page  */
+
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
+
+  .content {
+    position: fixed;
+    bottom: 0;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    color: black;
+  }
+
+.scextable-sttyle{
+    font-weight: bold;
+    text-decoration-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
